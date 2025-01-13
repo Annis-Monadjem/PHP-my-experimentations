@@ -1,0 +1,17 @@
+{
+  "name": "annis-monadjem/php-experimentation",
+  "authors": [
+    {
+      "name": "Annis Monadjem",
+      "email": "annismonadjem@yahoo.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core/",
+      "Http\\": "Http/"
+    }
+  }
+}
